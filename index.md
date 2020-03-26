@@ -2,6 +2,16 @@
 
 Un nouveau projet
 
+- Test liste
+- Liste 2
+
+1. Liste perdue
+2. Liste retrouvée
+
+**Texte en gras**
+_texte en italique_
+[lien du site](url)
+
 You can use the [editor on GitHub](https://github.com/KellyCo98/projetaori/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
