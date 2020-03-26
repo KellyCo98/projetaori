@@ -9,8 +9,10 @@ Un nouveau projet
 2. Liste retrouvée
 
 **Texte en gras**
+
 _texte en italique_
-[lien du site](url)
+
+[lien du site](https://www.google.com/)
 
 You can use the [editor on GitHub](https://github.com/KellyCo98/projetaori/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
